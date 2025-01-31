@@ -10,5 +10,6 @@ pip install pynput
 ```
  pip install pyinstaller
  pyinstaller --onefile keylogger.py
-&nbsp;
+```
+
 + This will generate a (keylogger.exe)
