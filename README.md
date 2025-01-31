@@ -1,6 +1,6 @@
 # A Simple Key-Logger using Python
-**⚠️ WARNING: FOR EDUCATIONAL PURPOSES ONLY!**  
-     Do not use this for illegal activities.
+**⚠️ WARNING: FOR EDUCATIONAL PURPOSES ONLY!** 
+**⚠️ Do not use this for illegal activities.**
 ## Prepare your environment
 ```
 pip install pynput
@@ -17,5 +17,3 @@ pip install pynput
 + Once you ran these commands in your terminal it will generate a (keylogger.exe) inside your dist file.
 + You need to copy only that (keylogger.exe) in to your pen and once the USB plugged in, you need to open the (keylogger.exe) manually.
 + This doesn't work on Windows 11 when the USB plugged in because of the Windows Saftey
-&nbsp;
-# Again Only for Educational purpose only!
