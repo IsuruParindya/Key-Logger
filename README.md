@@ -2,4 +2,4 @@
 &nbsp;
 ## Prepare your enviornment
 
-first install python on your system
+-first install python on your system
