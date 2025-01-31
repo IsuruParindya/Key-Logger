@@ -1,5 +1,5 @@
 # A Simple Key-Logger using Python
-**⚠️ WARNING: FOR EDUCATIONAL PURPOSES ONLY!** 
+**⚠️ WARNING: FOR EDUCATIONAL PURPOSES ONLY!**&nbsp;
 **⚠️ Do not use this for illegal activities.**
 ## Prepare your environment
 ```
