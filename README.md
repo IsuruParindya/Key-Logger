@@ -1,11 +1,10 @@
-# Key-Logger
+# A Simple Key-Logger using Python
 ## Only for Educational purpose only!
 ## Prepare your environment
 ```
 pip install pynput
 
 ```
-&nbsp;
 ## Package the script as an Executable
 ```
  pip install pyinstaller
