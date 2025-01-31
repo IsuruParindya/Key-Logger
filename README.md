@@ -1,5 +1,6 @@
 # A Simple Key-Logger using Python
-## Only for Educational purpose only!
+**⚠️ WARNING: FOR EDUCATIONAL PURPOSES ONLY!**  
+     Do not use this for illegal activities.
 ## Prepare your environment
 ```
 pip install pynput
