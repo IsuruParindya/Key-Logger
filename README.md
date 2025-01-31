@@ -5,7 +5,7 @@
 * pip install pynput
 
 
-## Notes
-+ Point A
-+ Point B
-+ Point C
+## Package the script as an Executable
++ pip install pyinstaller
++ pyinstaller --onefile keylogger.py
++ This will generate a (keylogger.exe)
