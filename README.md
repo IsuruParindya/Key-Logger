@@ -1,7 +1,8 @@
 # Key-Logger
-&nbsp;
-## Prepare your enviornment
-* pip install pynput
+
+## Prepare your environment
+```sh
+pip install pynput
 
 
 ## Package the script as an Executable
